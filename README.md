@@ -38,12 +38,16 @@ We provide qualitative demonstrations...
 ### SMAC: 1c3s5z
 HIVE learns coordinated target selection and positioning.
 
-<video src="results/SMAC-1c3s5z.mp4" controls width="600"></video>
+![SMAC demo](results/SMAC-1c3s5z.gif)
+
+▶️ [Watch full video](results/SMAC-1c3s5z.mp4)
 
 ### SMACv2: terran_10_vs_10
 HIVE exhibits stable large-scale coordination.
 
-<video src="results/SMACv2-terran10.mp4" controls width="600"></video>
+![SMACv2 demo](results/SMACv2-terran10.gif)
+
+▶️ [Watch full video](results/SMACv2-terran10.mp4)
 
 
 
